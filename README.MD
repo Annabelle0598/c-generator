@@ -7,7 +7,7 @@ The generated programs are syntactically correct but they don't charge for anyth
 The generated elements can be individually adapted by commenting out the corresponding functions.  
 
 
-##Usage
+## Usage
 `python c_generator.py [count_generated] [save_directory] [program_name]`
 
 count_generated: Amount of programs to generate (default: 1)  
